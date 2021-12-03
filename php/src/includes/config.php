@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
+define('DB_HOST','172.20.0.2');
 define('DB_USER','root');
-define('DB_PASS','');
+define('DB_PASS','admin');
 define('DB_NAME','carrental');
 // Establish database connection.
 try
